@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Hubot+Sans:ital,wght@0,200..900;1,200..900&family=Noto+Serif+Old+Uyghur&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.semua{
+    font-family: "Ubuntu", serif;
+    font-style: normal;
+}
+.jarak{
+    padding-top: 50px;
+}
+.jaraksm{
+    padding-top: 20px;
+}
+.profil{
+    margin-top: 40px;
+}
+.profil img{
+    width: 1262px;
+}
+.about{
+    display: flex;
+    margin-left: 220px;
+}
+.textabout{
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.tabelbio{
+    width: 650px;
+    margin-left: 70px ;
+    margin-top: 40px ;
+}
+.bio{
+    display: flex;
+}
+.maps{
+    margin-left: 20px;
+}
+.gambar{
+    display: flex;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card{
+    transition: transfrom .10s;
+    margin-left: 23px;
+    margin-top: 30px;
+}
+.listmusic{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.bx{
+    font-size: 40px;
+}
+.pl{
+    margin-left: 10px;
+}
+.textlagu{
+    text-align: center;
+}
+.music{
+    display: flex;
+    margin-left: 20px;
+}
+.orderr{
+    display: flex;
+    margin-left: 159px;
+}
+.order{
+    display: flex;
+    margin-left: 159px;
+}
+.card1{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.card2{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 600px;
+    margin-left:120px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+.formcontak{
+    display: flex;
+}
+.alamat{
+    margin-left: 70px;
+}
